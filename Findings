@@ -13,7 +13,8 @@
   -Demar Derozan('16-17), Harrison Barnes('17-18), and CJ McCollum('19-20) all shot ~10% worse during clutch time in their respective seasons. 
     All these players played on teams that either did not make the playoffs or did not make it past the 2nd round of the playoffs and all 3 teams 
     finsihed with a winning percentage below 60% in clutch time.
-    
+
+
 ##Findings - Clutch Time 3P%##
   -Steph Curry('15-16) finished in the top 10 of both clutch time FG% and cluch time 3P%. This was the same season he finished as the 
     first ever unanimous MVP and his team finished 73-9 overall, the best regular season record in NBA history. It's no coicidence that his teammate, 
@@ -22,7 +23,8 @@
     As the league moves into more positionless basketball and players become more skilled, 3-pointers are more often taken off the catch rather than the dribble. 
     Which is why you see less familiar names like Troy Daniels, Buddy Hield, and Rodney Hood show up on these top 10 lists for any given season. 
     They are what the NBA deems "3-point specialists" or "3 & D Players".
-    
+
+
 ##Findings - Clutch Time Winning%##
   -While an NBA game is 48 minutes and usually contains between 95-105 possesions for each team, you can really boil a game down to a few key possesions. 
     These possessions often happnen during clutch time and can really make or break a team's season.
@@ -39,7 +41,8 @@
   -With the rise of sports gambling in recent years, information such as this can be useful for people looking to place bets on team's win totals before the season. 
   If a team finsihed with a good record, but a large portion of those wins came during clutch time, do you expect that team to continue to win at that pace? And vice versa? 
   History tells us that teams often regress or progress back to the mean after years like that.
-  
+
+
 ##Findings - Clutch Time Assist:Turnover Ratio##
   -Overall teams with a high win percentage generally have a high assist:turnover ratio year to year. There is little evidence that this is an indicator of a good team though, 
     as a number of teams with a low clutch time win percentage finished at or near the top of the league in clutch time assist:turnover ratio.
@@ -49,7 +52,8 @@
     isolation heavy players in NBA history in James Harden. Given Harden's historically high usage rate that year(39.6%), one can conclude that the ball dominance of Harden 
     prevented the offense from moving the ball in clutch time situations. More times than not, the Rockets offense in clutch time involved Harden going one-on-one and the 
     possesion either ending in a shot attempt or turnover by Harden.
-    
+
+
 ##Findings - Clutch Time Turnover Margin##
   -4 out of 5 seasons, the team with the best turnover margin finished with a clutch time winning percentage below 50%. Twice, that team was the Sacramento Kings ('17-18,'18-19).
   -3 out of 5 seasons saw the team that won the NBA finals finish with a negative turnover margin
